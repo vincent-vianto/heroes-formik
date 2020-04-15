@@ -1,0 +1,13 @@
+{
+  "heroes": [
+    {
+      "fullname": "Abdul Halim",
+      "born": "1911",
+      "died": "1988",
+      "description": "Aktivis kemerdekaan dan politisi, Perdana Menteri Indonesia",
+      "establishment": "2008",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Abdul_Halim_Prime_Minister.jpg",
+      "id": 1
+    }
+  ]
+}
